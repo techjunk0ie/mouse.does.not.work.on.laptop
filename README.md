@@ -1,6 +1,6 @@
 # mouse does not work on laptop
 
-[![mouse does not work on laptop](gett-detail.png)](https://github.com/techjunk0ie/mouse.does.not.work.on.laptop)
+[![mouse does not work on laptop](gett-detail.png)](https://computersolve.com/mouse-does-not-work-on-laptop/)
 
 Make sure the wireless mouse is receiving power by checking for some indication of power (usually a light). Move your mouse around on the mousepad to see if any indicator comes on. If your mouse has a power switch, it's often on the bottom side. If the mouse doesn't appear to be on, replace the batteries.
 
